@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 895ee26fa66483f488c92e9b42a15f59, type: 3}
+  m_Name: StandartTower
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 50e44d37940db1e49b0b02ffc8aa117a, type: 3}
+  damage: 50
+  fire_rate: 10
+  tower_name: StandartTower
+  shooting_radius: 1
+  placing_radius: 0.2
+  bullet: {fileID: 21300000, guid: 4b782b2114fce1549a87136f826cb0bd, type: 3}
+  shooting_sound: {fileID: 8300000, guid: c145b2b4caba27940842434592585423, type: 3}
+  cost: 50
